@@ -627,3 +627,7 @@ footer{
         }
     
 }
+.works-card{
+    display: flex;
+    justify-content: center;
+}
